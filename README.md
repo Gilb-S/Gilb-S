@@ -12,7 +12,7 @@
 
 <p align="left">
   - ✨ Creating bugs since I wrote my first "Hello, World!"<br>
-  - 📚 Currently learning: Backend development with FastAPI & PostgreSQL<br>
+  - 📚 Currently learning: Backend development with RESTAPI & PostgreSQL<br>
   - 🎯 Goals: Master full-stack development & contribute to open-source projects<br>
   - 🎲 Fun fact: I talk to my code... sometimes it listens! 😆
 </p>
